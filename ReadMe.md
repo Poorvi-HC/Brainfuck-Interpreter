@@ -1,6 +1,5 @@
 # Brainfuck - a programming language
 
----
 
 ## Introduction :
 
